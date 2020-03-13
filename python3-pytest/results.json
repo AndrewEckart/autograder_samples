@@ -1,0 +1,42 @@
+{
+    "execution_time": 1.4989192485809326,
+    "score": 100,
+    "tests": [
+        {
+            "max_score": 1,
+            "name": "test_icm.py::test_name",
+            "number": "0",
+            "score": 1
+        },
+        {
+            "max_score": 1,
+            "name": "test_icm.py::test_flavor",
+            "number": "1",
+            "score": 1
+        },
+        {
+            "max_score": 1,
+            "name": "test_icm.py::test_tub_volume",
+            "number": "2",
+            "score": 1
+        },
+        {
+            "max_score": 1,
+            "name": "test_icm.py::test_scoop_volume",
+            "number": "3",
+            "score": 1
+        },
+        {
+            "max_score": 1,
+            "name": "test_icm.py::test_servings",
+            "number": "4",
+            "score": 1
+        },
+        {
+            "max_score": 1,
+            "name": "test_icm.py::test_code_quality",
+            "number": "5",
+            "score": 1
+        }
+    ]
+}
